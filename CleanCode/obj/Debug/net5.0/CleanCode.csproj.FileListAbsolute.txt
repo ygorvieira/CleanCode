@@ -1,0 +1,12 @@
+C:\PROJETOS\CleanCode\CleanCode\CleanCode\bin\Debug\net5.0\CleanCode.deps.json
+C:\PROJETOS\CleanCode\CleanCode\CleanCode\bin\Debug\net5.0\CleanCode.dll
+C:\PROJETOS\CleanCode\CleanCode\CleanCode\bin\Debug\net5.0\ref\CleanCode.dll
+C:\PROJETOS\CleanCode\CleanCode\CleanCode\bin\Debug\net5.0\CleanCode.pdb
+C:\PROJETOS\CleanCode\CleanCode\CleanCode\obj\Debug\net5.0\CleanCode.csproj.AssemblyReference.cache
+C:\PROJETOS\CleanCode\CleanCode\CleanCode\obj\Debug\net5.0\CleanCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS\CleanCode\CleanCode\CleanCode\obj\Debug\net5.0\CleanCode.AssemblyInfoInputs.cache
+C:\PROJETOS\CleanCode\CleanCode\CleanCode\obj\Debug\net5.0\CleanCode.AssemblyInfo.cs
+C:\PROJETOS\CleanCode\CleanCode\CleanCode\obj\Debug\net5.0\CleanCode.csproj.CoreCompileInputs.cache
+C:\PROJETOS\CleanCode\CleanCode\CleanCode\obj\Debug\net5.0\CleanCode.dll
+C:\PROJETOS\CleanCode\CleanCode\CleanCode\obj\Debug\net5.0\ref\CleanCode.dll
+C:\PROJETOS\CleanCode\CleanCode\CleanCode\obj\Debug\net5.0\CleanCode.pdb
